@@ -1,4 +1,4 @@
 install = {} 
 install.Dependencies = {} 
-install.InstallHierarchy = {{"/redfile.lua","/redfile"}} 
+install.InstallHierarchy = {{"Redfile/redfile.lua","/redfile"}} 
 return install 
