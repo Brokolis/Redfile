@@ -1,0 +1,4 @@
+install = {} 
+install.Dependencies = {} 
+install.InstallHierarchy = {{"/redfile.lua","/redfile"}} 
+return install 

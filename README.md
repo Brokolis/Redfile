@@ -1,4 +1,5 @@
-==RedFile==
+RedFile
+=======
 
 Ever wanted to easily send a program to your friend through Rednet? Other file sharing programs are hard to use or command line based? If you want a simple program to share your files with a nice file browser then you came into right place!
 
